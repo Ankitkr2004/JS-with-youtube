@@ -5,8 +5,8 @@
 
 # Object
 
--collection of properties and methods
--toLowerCase
+- collection of properties and methods
+- toLowerCase
 
 # why use OOP
 
